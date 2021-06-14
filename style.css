@@ -11,6 +11,7 @@
 	border-radius: 5px;
 	color: #fff;
 	padding: 70px;
+	height: 345px;
 }
 .form-left h2 {
 	margin: 19px 0;
@@ -31,6 +32,7 @@
 	padding-top: 25px;
 	padding-bottom: 83px;
 	border-radius: 5px;
+    height: 345px;
 }
 .form-right h3 {
 	font-size: 24px;
